@@ -1,0 +1,27 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+#bg1 {
+    /* The image used */
+    background-image: url("remzi.png");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg2 {
+    /* The image used */
+    background-image: url("romzi.jpg");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
